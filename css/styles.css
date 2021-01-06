@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(94, 192, 159);
+}
+img {
+  border-radius: 10px;
+  border: 2px solid rgba(73, 55, 55, 0.562);
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.secondBest {
+  font-style: bold;
+  color: rgb(0, 255, 85);
+}
+.best{
+  font-style: bold;
+  color: white;
+}
